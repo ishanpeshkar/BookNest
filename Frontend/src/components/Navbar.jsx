@@ -87,7 +87,7 @@ function Navbar() {
               </ul>
             </div>
             <a className="btn btn-ghost normal-case text-3xl font-bold cursor-pointer">
-              Book <span className="text-pink-500">Store</span>
+              Book <span className="text-pink-500">Nest</span>
             </a>
           </div>
           <div className="navbar-end space-x-8 dark:bg-slate-900 dark:text-white">

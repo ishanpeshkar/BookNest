@@ -1,0 +1,19 @@
+{
+  "name": "booknest",
+  "version": "1.0.0",
+  "description": "bookstore project based on mern stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishanpeshkar/BookNest.git"
+  },
+  "author": "Ishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishanpeshkar/BookNest/issues"
+  },
+  "homepage": "https://github.com/ishanpeshkar/BookNest#readme"
+}
